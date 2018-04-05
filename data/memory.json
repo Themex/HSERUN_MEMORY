@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1,
+    "name": {
+        "ru": "Дизайн-завод «Флакон»",
+        "en": "Design-plant «Flacon»"
+    },
+    "address": {
+        "ru":"Большая Новодмитровская ул., 36",
+        "en":"Bolshaya Novodmitrovskaya, 36"
+    },
+    "fact": {
+        "ru":"История дизайн-завода «Флакон» началась в середине XIX века. Тогда это был хрустально-стекольный завод, который занимался производством флаконов для духов – их поставляли на первую в России парфюмерную фабрику «А.Ралле и Ко». Завершив свою славную промышленную историю, в 2009 завод превратился в «дизайн-завод». Теперь на территории флакона собираются те, кто занимаются креативом и дизайном во всех направлениях и сферах. Именно здесь развиваются молодые проекты, как журнал Seasons, и творческие личности создают что-то новое.",
+        "en":"The story of design-factory «Flacon» started in the middle of the 19th century. Then, it was a crystal-glass making factory, that was producing flasks for perfume - they were delivered to the first ever perfume factory in Russia «A.Ralle&Co». When its initial story ended, in 2009 the factory became a design-factory. Now, those who go to the factory, are the people that are creative in all directions. It is here, where the new projects are born, like the magazine Seasons. Every creative individual produces something new here, in this place."
+    },
+    "frame":"flacon"
+  },
+  {
+    "id": 2,
+    "name": {
+        "ru": "Городское пространство «Хлебозавод»",
+        "en": "City Space «Khlebozavod»"
+    },
+    "address": {
+        "ru":"Новодмитровская ул., 1",
+        "en":"Novodmitrovskaya, 1"
+    },
+    "fact": {
+        "ru":"Если вы уже знаете каждый сантиметр «Флакона», Artplay и Винзавода, то новое креативное городское пространство Хлебозавод точно для вас. По традиции таких дизайнерских мест здесь много интересных шоурамов и барбершопов, креативные лофты с разнообразными выставками и яркий стрит-арт. Однако Хлебозавод по-своему индивидуален: он отсылает нас к эпохе авангарда с его ярко выраженным архитектурным конструктивизмом.",
+        "en":"If you already know every centimetre of Flacon, Artplay and Vinzavod, then the new creative place Hlebozavod (Bread Factory) is definitely for you! Traditionally for this kind of place there are a lot of interesting showrooms and barbershops, creative lofts with different exhibitions and bright streetart. However Hlebozavod is unique in its own way: it sends is to the avant garde age with its bright shown architectural constructivism."
+    },
+    "frame":"khleb"
+  },
+  {
+    "id": 3,
+    "name": {
+        "ru": "Московский планетарий",
+        "en": "Moscow Planetarium"
+    },
+    "address": {
+        "ru":"Садовая-Кудринская ул., 5 стр.1",
+        "en":"Sadovaya-Kudrinskaya, 5 bld. 1"
+    },
+    "fact": {
+        "ru":"«Пролетарка, пролетарий, заходите в планетарий...» — такими строчками В. Маяковский поприветствовал в 1929 г. открытие Московского планетария (между прочим, 13-го по счёту в мире!).Сейчас Планетарий предоставляет экспозиции для посетителей любых возрастов: это и звёздное небо в миниатюре для детей, и 4D-кинотеатр, и интерактивный музей «Лунариум», а также большой звёздный зал, проектор которого позволяет увидеть свыше 9 тысяч небесных тел, и ещё много всего интересного. В общем, не музей, а просто космос — сходите и убедитесь в этом сами.",
+        "en":"«Proletarian, proletarian, come in to the planetarium...» - with these lines V. Mayakovsky welcomed people to the opening of the Moscow Planetarium in 1929. It is the 13th planetarium in the world! Now, the Planetarium gives exhibitions, interesting for visitors of all age: this is the sky full of stars in miniature for the children, the 4D cinema, the interactive museum Lunarium, and also the big star room, projector of which can show anyone more than 9 thousand sky bodies and other very interesting things. In conclusion,its not just a museum, its the awesomest place in Moscow - come and make sure yourself."
+    },
+    "frame":"planetarium"
+  },
+  {
+    "id": 4,
+    "name": {
+        "ru": "Музей космонавтики",
+        "en": "Space Museum"
+    },
+    "address": {
+        "ru":"пр-т Мира, 111",
+        "en":"Prospect Mira, 111"
+    },
+    "fact": {
+        "ru":"А вы знали, что Музей космонавтики – один из крупнейших научно-технических музеев мира? Здесь можно увидеть свидетельства первых успехов и достижений отечественной космонавтики: первые скафандры, искусственные спутники Земли, а еще космические аппараты по изучению Луны и планет Солнечной системы.",
+        "en":"Did you know that the Space Museum is one of the biggest technical research museums in the world? Here you can see the exhibits that prove first successes and achievements of the Soviet austronatics: first spacesuits, fake Sputniks, and also the cosmic tools to explore the Moon and the planets of the Solar System."
+    },
+    "frame":"space"
+  },
+  {
+    "id": 5,
+    "name": {
+        "ru": "Еврейский музей и центр толерантности",
+        "en": "Jewish Museum & Tolerance Center"
+    },
+    "address": {
+        "ru":"ул. Образцова, 11, стр.1, лит. А",
+        "en":"Obraztsova st., 11, bld. 1, lit. A"
+    },
+    "fact": {
+        "ru":"Еврейский музей и центр толерантности открылся в Москве относительно недавно — в 2012 г. — и самого открытия громко заявил о себе. Здесь нет скучных залов с табличками «руками не трогать» и однообразными экспонатами. Еврейский музей предоставляет своим посетителям уникальную возможность ознакомиться с богатой историей евреев не только через исторические фотографии, предметы одежды и интерьера, но и через мультимедийные и интерактивные экспозиции. Как бонус – можно перекусить той самой кошерной едой.",
+        "en":"The Jewish museum and centre of tolerance opened in Moscow recently (2012) and loudly declared about itself. There are no boring halls with plaques that say «Do Not Touch» and similar paintings and exhibits. The Jewish museum gives its visitors a unique opportunity to familiarize the rich history of Jews not just through the historic pictures, clothing and interior, but also through multimedia and interactive exhibitions. As a bonus, you can try that famous Kosher food."
+    },
+    "frame":"jewish"
+  },
+  {
+    "id": 6,
+    "name": {
+        "ru": "Музей современного искусства «Гараж»",
+        "en": "Museum of Contemporary Art «Garage»"
+    },
+    "address": {
+        "ru":"ул. Крымский Вал, 9 строение 32",
+        "en":"Krimsky Val, 9 bld. 32"
+    },
+    "fact": {
+        "ru":"Музей современного искусства появился на территории Парка Горького совсем недавно. В 2008 году его официально открыли Дарья Жук и Роман Абрамович. Большинство побывали в «Гараже» благодаря выставке Мураками, о которой каждый день писали в социальных сетях. Однако уверяем, что в этом музее круглый год проводятся интересные выставки современных художников и фотографов, световые инсталляции, а также показы различных артхаусных кинофестивалей и мастерские.",
+        "en":"The Garage Museum of Modern Art opened on the territory of Park Gorkogo just recently. In 2008 it was officially opened by Daria Zhukova and Roman Abramovich. Most of the people have visited Garage because of the Takashi Murakami exhibition, that was written about everywhere on social media. But we assure, that all year round there are interesting exhibitions of modern artists and photographers, light installations, also showings of different art-house film festivals and master classes."
+    },
+    "frame":"garage"
+  },
+  {
+    "id": 7,
+    "name": {
+        "ru": "Студия Театрального Искусства",
+        "en": "Theatrical Art Studio"
+    },
+    "address": {
+        "ru":"ул. Станиславского, 21c7",
+        "en":"Stanislavsky st., 21c7"
+    },
+    "fact": {
+        "ru":"С начала XIX века на месте «Студии театрального искусства» находилась знаменитая на всю Россию золотоканительная фабрика семьи Алексеевых. Здесь производили золотошвейную пряжу, церковные украшения, елочные игрушки. Алексеевы даже поставляли продукцию царскому двору, а в Москве существовала поговорка — «Богат, как Алексеев». В конце XIX века фабрика перешла под руководства Константина Алексеева, более известного во всем мире как... Станиславский.",
+        "en":"From the beginning of 19th century on the place of the «Theatre Art Studio» there was a famous all over Russia factory owned by the Alexeyev family. It produced gold-embroidery yarn, church decorations, Christmas toys. Alekseevs even delivered production to the tzar and there was a saying in Moscow — «Rich as Alekseev». At the end of the 19th century the factory was taken over by Konstantin Alekseev who is well-known worldwide as... Stanislavski."
+    },
+    "frame":"stheatre"
+  },
+  {
+    "id": 8,
+    "name": {
+        "ru": "Московский академический театр имени Владимира Маяковского",
+        "en": "Moscow Academic Theater named after Vladimir Mayakovsky"
+    },
+    "address": {
+        "ru":"ул. Б.Никитская, 19/13",
+        "en":"Bolshaya Nikitskaya, 19/13"
+    },
+    "fact": {
+        "ru":"История театра началась ешё в конце 19 века, когда в 1886 году было построено его здание специально для зарубежных гастролеров. За свою долгую историю театр успел побыть Театром революционной сатиры и Театром революции, а также открыть целых три сцены: Основную (для любителей классического театра), Сцену на Сретенке и Малую сцену (если вы больше по современному и иммерсивному театру).",
+        "en":"The history of the theater began in the late 19th century. In 1886 it was built specifically for foreign guest performers. During its long history the theatre has been a Revolutionary Satire Theater and Theater of the Revolution. It also has opened three stages: the Main (for people who admire classical theatre), the Stage on Sretenka St. and a Small Stage (for those who like modern and immersive theatre)."
+    },
+    "frame":"mayakovskiy"
+  },
+  {
+    "id": 9,
+    "name": {
+        "ru": "Театр «Школа драматического искусства»",
+        "en": "«School of Dramatic Art» theatre"
+    },
+    "address": {
+        "ru":"ул. Сретенка, 19",
+        "en":"Sretenka, 19"
+    },
+    "fact": {
+        "ru":"Театр «Школа драматического искусства» открылся 24 февраля 1987 года. Премьера была оглушительной – спектакль «Шесть персонажей в поиске автора» Луиджи Пиранделло в постановке одного из самых известных театральных режиссером Анатолия Васильева. Этот спектакль для целого поколения стал своеобразным творческим манифестом, откровением нового театра, — живого, наполненного импровизацией, — который впоследствии будет назван игровым, в отличие от традиционного, психологического.",
+        "en":"The theatre «The School of Drama Art» was opened on February 24, 1987. The premiere was amazing! The play «Six characters in search of an author» by Luigi Pirandello staged by one of the most famous theater Directors Anatoly Vasilyev. This performance has become a kind of creative Manifesto for the whole generation, the revolution of a new theater — a living game, filled with improvisation unlike the traditional, psychological one."
+    },
+    "frame":"dramart"
+  },
+  {
+    "id": 10,
+    "name": {
+        "ru": "Дом Бурганова",
+        "en": "Burganov house"
+    },
+    "address": {
+        "ru":"Большой Афанасьевский пер., 15",
+        "en":"Bolshoy Afanasyevsky per., 15"
+    },
+    "fact": {
+        "ru":"«Дом Бурганова» - это музей, который один из немногих находится под открытым. Он построен в виде лабиринта Минотавра, который состоит из череды отдельных комнат с расположенными в них оригинальными скульптурами. В некоторых комнатах нет крыши, а многие настолько причудливо обставлены, что создается ощущение нереальности. Часть экспозиции находится в здании – редкие книги, картины, гравюры. В кассе вы не найдете какой-то определенный маршрут, по которому стоит блуждать внутри дома – говорят, только там можно получить максимум впечатлений и эмоций от музея.",
+        "en":"The «Burganov house» is a Museum, which is one of the few located under the open sky. It is built in the form of a labyrinth of the Minotaur which consists of some series of separate rooms with original sculptures in them. Some rooms don't have a roof and many are so weirdly furnished that it seems unreal. Part of the exhibition is located in the building – rare books, paintings, engravings. At the cash office you won't find any specific route to wander inside the house. People say that you can get maximum impressions and emotions from the Museum only by walking around by yourself."
+    },
+    "frame":"burganov"
+  },
+  {
+    "id": 11,
+    "name": {
+        "ru": "Крутицкое подворье",
+        "en": "Krutitsy Metochion"
+    },
+    "address": {
+        "ru":"Крутицкая ул., 17, строение 4",
+        "en":"Krutitskaya St., 17, bld. 4"
+    },
+    "fact": {
+        "ru":"Крутицкое подворье — уголок средневековой Москвы: краснокирпичная кладка, невообразимо красивые поливные изразцы и булыжная мостовая. Название этого места произошло от слова «Крутицы» — возвышения на берегу Москвы-реки ниже устья Яузы. Именно здесь в XIII веке князь Даниил Московский заложил храм, а около 1272 года появилась мужская обитель.",
+        "en":"Krutitsy Metochion is the area of medieval Moscow that consists of red brick walls, incredibly beautiful glazed tiles and pebble pavement. The name of this place comes from the word «Krutitsy» — a hill on the banks of the Moscow river below the inflow of the Yauza. It was there in the 18 century where Prince Daniel of Moscow built a temple around which there was founded a men's monastery in 1272."
+    },
+    "frame":"krutitsy"
+  },
+  {
+    "id": 12,
+    "name": {
+        "ru": "Московский Международный Дом Музыки",
+        "en": "Moscow International House of Music"
+    },
+    "address": {
+        "ru":"Космодамианская набережная, 52, стр. 8",
+        "en":"Kosmodamianskaya naberezhnaya, 52, bld. 8"
+    },
+    "fact": {
+        "ru":"Московский международный Дом музыки (ММДМ) – место особое, со своим лицом, концепцией, своей моделью концертной деятельности. Он появился в столице в 2002 году. ММДМ был построен по инициативе выдающегося музыканта и общественного деятеля Владимира Спивакова и мэра Москвы Юрия Лужкова. Дом музыки стал первым и единственным в России центром исполнительских искусств – распространенный по всему миру тип многофункционального комплекса, как Кеннеди-центр в Вашингтоне. В трех огромных залах ММДМ проводятся концерты и спектакли, крупные международные форумы и творческие вечера, презентации и праздничные шоу, конференции и корпоративные встречи.",
+        "en":"Moscow International House of Music is a special place, with its mode, impression and activity. It was built in Moscow in 2002. due to the initiative of outstanding musician Vladimir Spivakov and Moscow mayor Yuri Luzhkov. The House of Music became the first and only performing arts center in Russia – a type of multifunctional complex that is widespread all over the world, like the Kennedy Center in Washington. Concerts and performances, major international forums and recitals, presentations and festivals, conferences and corporate meetings are held in three huge halls of the Moscow International House of Music."
+    },
+    "frame":"mdm"
+  },
+  {
+    "id": 13,
+    "name": {
+        "ru": "Дом Пашкова",
+        "en": "Pashkov House"
+    },
+    "address": {
+        "ru":"ул. Воздвиженка, 3/5, строение 1",
+        "en":"Vozdvizhenka, 3/5 bld. 1"
+    },
+    "fact": {
+        "ru":"Дом Пашкова построили в 1784-1786 по заказу капитан-поручика Семёновского полка Петра Пашкова и по проекту архитектора Василия Баженова. Говорят, что в глубинах Ваганьковского холма под особняком находится легендарная библиотека Ивана Грозного – огромного собрания древних текстов и рукописей. - Глубины Ваганьковского холма под Пашковым домом считаются одним из нескольких возможных вариантов местонахождения легендарной Библиотеки Ивана Грозного. А еще именно этот дом описывает Булгаков в «Мастере и Маргарите» как местовстречи Воланда, Азазелло и Левия Матвея.",
+        "en":"Pashkov house was built in 1784-1786 by the order of the Lieutenant-captain of the Semenov regiment Peter Pashkov and designed by the architect Vasily Bazhenov. A huge collection of ancient texts and manuscriptsis is said to be in the depths of Vagankovsky hill under the mansion is the legendary library of Ivan the Terrible. The depths of Vagankovsky hill near Pashkov house are considered to be one of a few possible variants of the legendary Library of Ivan the Terrible's location. Bulgakov describes exactly this house in his «Master and Margarita» as a place of Voland, Azazello and Levi Matvei's meetings."
+    },
+    "frame":"pashkov"
+  },
+  {
+    "id": 14,
+    "name": {
+        "ru": "Кремль в Измайлово",
+        "en": "The Kremlin in Izmailovo"
+    },
+    "address": {
+        "ru":"Измайловское шоссе, 73 Ж",
+        "en":"Izmailovo shosse, 73 Ж"
+    },
+    "fact": {
+        "ru":"Колоритные фестивали, ярмарки в старорусском стиле, «блошиные» антикварные рынки и, конечно же, тот самый Вернисаж художников и мастеров — то, с чего Измайловский кремль взял своё начало. Фотографов данное место привлекает своим красочным архитектурным ансамблем, разноцветными башенками и деревянными постройками. А творческие натуры могут посетить мастер-классы по гончарному делу, ковке, изготовлению игрушек, мыловарению... И, конечно, напоследок заглянуть в Музей истории водки — куда же без этого.",
+        "en":"Izmailovsky Kremlin began with сolorful festivals, traditional Russian funfairs, antique markets and the Vernissage of artists and craftsmen. Photographers are attracted to this place by its unique architecture, colorful turrets and wooden buildings. If you are creative and imaginative, you should attend workshops on pottery, forging, manufacturing of toys, soap making... Of course, you should definitely visit the Museum of the vodka history of vodka."
+    },
+    "frame":"izmailovo"
+  },
+  {
+    "id": 15,
+    "name": {
+        "ru": "Саввинское подворье",
+        "en": "Savvinsky Metochion"
+    },
+    "address": {
+        "ru":"Тверская ул., 6/1",
+        "en":"Tverskaya st., 6/1"
+    },
+    "fact": {
+        "ru":"Саввинское подворье в прошлом служило конторско-гостиничным здание при Савво-Сторожевском монастыре – он был основан в XIV веке. До революции здесь нашли надгробные плиты с древнерусскими надписями – свидетельства царствования Алексея Михайловича Романова и его Воскресенского монастыря. До 1937 года подворье выходило непосредственно на Тверскую улицу, будучи крупнейшим зданием между Охотным рядом и Тверской площадью.",
+        "en":"Savvinsky Metochion served as a office and hotel building at the Savva Storozhevsky Monastery in the past - it was founded in XIV century. Before the revolution, tombstones were found with Old Russian inscriptions here - evidence of the reign of Alexei Mikhailovich Romanov and his Resurrection Monastery. Until 1937, the courtyard went directly to Tverskaya Street, that is the position of the largest building between Okhotny Ryad and Tverskaya Square."
+    },
+    "frame":"savvy"
+  },
+  {
+    "id": 16,
+    "name": {
+        "ru": "Институт медиа, архитектуры и дизайна «Стрелка»",
+        "en": "Institute of Media, Architecture and Design «Strelka»"
+    },
+    "address": {
+        "ru":"Берсеневская Hабережная, 14/5",
+        "en":"Bersenevskaya Naberezhnaya, 14/5"
+    },
+    "fact": {
+        "ru":"В 2009 году Рэм Колхас открыл в Москве свой образовательный институт – только без зачеток, сессий и экзаменов – и назвал его «Стрелка». Здесь занимаются самыми разнообразными проектами в области архитектуры, урбанистики, дизайна и медиа.  Постепенно лекции института стали безумно популярны. Затем у «Стрелки» появилось свое издательство «Strelka Press» и онлайн-школа городских предпринимателей Vector. И за 9 лет своего существования институт вошел в 100 лучших архитектурных школ.",
+        "en":"In 2009, Rem Koolhaas opened his own institute of education in Moscow (without exams and grades) and called it Strelka. Here, you can learn about the various cases in architecture, urbanism, design and media. Gradually lectures of this institute have become very popular. Then, Strelka opened its own publishing house «Strelka Press» and the online-school for entrepreneurs Vector. In these 9 years of existing, the institute has entered the list of the 100 best architecture schools in the world."
+    },
+    "frame":"strelka"
+  },
+  {
+    "id": 17,
+    "name": {
+        "ru": "Особняк С. П. Рябушинского",
+        "en": "The mansion of S.P. Ryabushinsky"
+    },
+    "address": {
+        "ru":"Малая Никитская ул., 6/2",
+        "en":"Malaya Nikitskaya st., 6/2"
+    },
+    "fact": {
+        "ru":"В 1900 году знаменитый российский банкир и меценат Степан Рябушинский заказал у самого модного по тем временам архитектора Фёдора Шехтеля особняк на Малой Никитской, 6. Здание получилось невероятно необычным и далеко не сразу всем понравилось. Например, Корней Чуковский писал, что это «самый гадкий образец декадентского стиля». Сам Рябушинский здесь не стал жить, а устроил реставрационную мастерскую икон. С 1931 года здесь жил писатель Максим Горький. Сегодня в этом особняке находится его дом-музей.",
+        "en":"In 1900, the famous russian banker and philantropist Stepan Ryabushinskiy ordered a mansion on Malaya Nikitskaya,6 from the most fashionable architect Fyodor Shekhtel at the time. The building turned out to be incredibly unusual and nobody liked it at once. For instance, Kornei Chukovsky wrote that it was «the most disgusting example of a decadent style». Ryabushinskiy himself did not live there, but arranged a restoration workshop for icons. Since 1931 Maxim Gorkiy, a writer, lived there. Today, there is his house-museum in this mansion."
+    },
+    "frame":"ryabushinsky"
+  }
+]

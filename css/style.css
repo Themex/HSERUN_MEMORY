@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body{
+    text-align:center;
+    margin:0;
+    padding:0;
+    font-family: 'Open Sans', sans-serif;
+}
+#turn {
+    width:100%;
+    height:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    background: #fff url('../img/playportrait.png') no-repeat center center;
+    display:none;
+}
+
+.popup, .guide {
+    display: none;
+    position: absolute;
+    z-index: 100;
+    background:#fff;
+    padding: 40px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #2a2a2a;
+}
+
+@media all and (min-width:0px) and (max-width: 1024px) {
+    .guide, .popup {
+        height:100%;
+        width:100%;
+        top:0;
+        left:0;
+    }
+
+    .popup .cover {
+        width: 115px;
+    }
+}
+
+@media all and (min-width:768px) and (max-width:1024px) {
+    .popup .heading, .guide .heading {
+        font: 600 40px/1 "Open Sans", sans-serif;
+        margin:25%;
+    }
+
+    .popup .desc, .guide .heading {
+        margin-top:60px;
+        font: normal 21px/38px "Open Sans", sans-serif;
+    }
+
+    .popup .cover {
+        width:256px;
+    }
+}
+
+@media all and (min-width:1025px) {
+    .guide,.popup {
+        height:360px;
+        width: 40%;
+        top:30%;
+        left:30%;
+        border:3px solid;
+    }
+
+    .popup .cover {
+        width: 115px;
+    }
+}
+
+.popup .cover {
+    float: left;
+    margin-right: 40px;
+    height: auto;
+    border:3px solid;
+}
+
+
+.popup .cross, .guide .cross {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    background: url(//cdn-s-static.arzamas.academy/x/121-epos-dfgjlDFdfgk34ddspQWEERcmms12/map/img/cross.png) 50% 50% no-repeat;
+}
+
+.popup .heading, .guide .heading {
+    font: 600 20px/1 "Open Sans", sans-serif;
+    margin-bottom: 20px;
+}
+
+.popup .desc, .guide .desc {
+    overflow: hidden;
+    position: relative;
+    font: normal 15px/20px "Open Sans", sans-serif;
+    width: 100%;
+    height: auto;
+}
+
+.popup .desc {
+    text-align:justify;
+}
+
+.guide .desc {
+    text-align:center;
+}
+
+.popup:after, .guide:after {
+    clear: both;
+    content: '';
+    display: block;
+}
